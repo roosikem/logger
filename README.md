@@ -1,3 +1,9 @@
+Benefits
+1. No need to third party library for logging.
+2. Centralize logging service for printing message in a console. 3. You want to disable logging temporarily.
+4. Send log to servers and store in a local storage.
+5. You have a source code of this, you can modify as you want.
+
 How to use
 1. Download the logging application.
 2. Go to the project folder from a terminal
